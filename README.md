@@ -4,7 +4,7 @@
 This project uses Google's Teachable Machine to classify images using a TensorFlow/Keras model.
 
 ## Files
-- Image_Model.ipynb
+- Untitled0.ipynb
 - keras_model.h5
 - labels.txt
 - screenshot.png
