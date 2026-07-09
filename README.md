@@ -7,7 +7,6 @@ This project uses Google's Teachable Machine to classify images using a TensorFl
 - Image_Model.ipynb
 - keras_model.h5
 - labels.txt
-- test.jpg
 - screenshot.png
 
 ## How to Run
